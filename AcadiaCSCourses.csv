@@ -1,0 +1,272 @@
+Course Title,Course Description
+<b>COMPUTER PROGRAMMING 1</b>,"<i>
+Introduction to the field of computer science and computer programming.
+Topics include fundamental programming constructs, algorithms, and
+problem-solving. Lecture and lab. No programming experience required.
+Prereq: NS Grade 12 Academic or Advanced Math (or equivalent) or
+Pre-calculus or 3h of mathematics
+Antirequisites: Credit cannot be obtained for both COMP 1113 and Comp
+1893.
+</i>"
+<b>COMPUTER PROGRAMMING 2</b>,"<i>
+Topics include object-oriented programming, declarations and types,
+fundamental techniques in graphics, event-driven programming, subclasses
+and inheritance in object-oriented programming, recursion, and file
+processing. Lecture and lab.
+Prereq: Comp 1113 with C- or better
+</i>"
+<b>COMPUTER CONCEPTS &amp; APP</b>,"<i>
+Introduction to computer concepts and hands-on experience with basic
+applications. Topics include how to create effective web pages, powerful
+presentations, dynamic spreadsheets, efficient word processing, and
+simple database applications. No prior computer knowledge assumed.
+</i>"
+<b>MULTIMEDIA BASED INTRO: PROG</b>,"<i>
+An introduction to programming by writing computer programs to
+manipulate images and other media. No prior computer knowledge assumed.
+Antirequisites: Credit cannot be obtained for both Comp 1113 and Comp
+1893.
+</i>"
+<b>COMPUTER PROGRAMMING 3</b>,"<i>
+Topics include fundamental programming concepts, algorithms and problem
+solving, fundamental data structures, recursion, the imperative
+programming paradigm, structured design, compiled and scripting
+languages, program correctness, robustness, and portability, interfacing
+with operating system. Lecture and lab.
+Prereq: Comp 1123 with a grade of C- or better
+</i>"
+<b>DATA STRUCTURES &amp; ALGORITHMS</b>,"<i>
+Topics include introduction to abstract data specification,
+implementation and testing, introduction to algorithms and their
+analysis.
+Prereq: Comp 1123 and either (Math 1323 or Math 1333) all with C- or
+better
+</i>"
+<b>COMP ARCHITECT./ORGANIZATION 1</b>,"<i>
+Topics include digital logic and digital systems, machine level
+representation of data, assembly level organization and architecture.
+Lecture and lab.
+Prereq: 6h of mathematics
+Cross-listed as APSC 2223.
+</i>"
+<b>COMP ARCHITECT./ORGANIZATION 2</b>,"<i>
+Topics include memory system organization and architecture, interfaces
+and communication, functional organization, multiprocessing and
+alternative architectures, performance enhancements.
+Prereq: Comp 2203 plus 6 additional hours of computer science, all with
+C- or better
+</i>"
+<b>WEB-CENTRIC PROGRAMMING</b>,"<i>
+Theory and hands-on experience with the Internet and Web infrastructure,
+E-commerce and M-commerce concepts, both client-side and server-side
+software technologies, database, E-payment, security and authentication,
+CSS, XML, and mobile data access and Web standards.
+Prereq: Comp 1123 with a C- or better
+</i>"
+<b>SOFTWARE ENGINEERING 1</b>,"<i>
+Topics include software requirements and specifications, methods and
+tools for object-oriented analysis and design, introduction to software
+validation, introduction to design patterns and frameworks, programming
+with components, using APIs, software tools and environments, software
+processes (introduction), software evolution (introduction), software
+project management.
+Prereq: Comp 1123 with C- or better
+</i>"
+<b>HANDLING DATA CONCPTS/APPS</b>,"<i>
+This course provides hands-on experience in managing research data from
+when it is collected to the final report. Includes data collection,
+storage, data manipulation, data analysis, generating charts and graphs,
+effective methods of presenting information in both reports and
+presentations.
+Prereq: 3h COMP or equivalent word processing and spreadsheet experience
+</i>"
+<b>HOW WEB SITES WORK</b>,"<i>
+Topics include an introduction to Web fundamentals, and programming
+techniques for Web site development.
+Prereq: 3 hours in COMP or permission of the School
+</i>"
+<b>BUILD WEB-BASED APPLICATION</b>,"<i>
+Development of dynamic Web applications using database technology.
+Topics include an introduction to Web development frameworks, and
+building Web sites which access data stored in a database backend.
+Prereq: Comp 2853 and 2863
+</i>"
+<b>COMPUTERS &amp; SOCIETY</b>,"<i>
+Topics include the technical, economic, legal, political, social,
+ethical, and professional issues related to the widespread use of
+computers.
+Prereq: 3h Comp with C- or better
+</i>"
+<b>SPECIAL TOPICS</b>,"<i>
+Prereq: permission of School
+</i>"
+<b>SECURITY</b>,"<i>
+Topics include cryptography, security issues and, network and data
+level security.
+Prereq: Comp 2113, Math 1223 or Math 2223 or Math 2233, and Math 1413
+with minimum grade of C-.
+</i>"
+<b>DATA COMM &amp; COMP NETWORKS</b>,"<i>
+Topics include theory and applications of data communications systems;
+language of data, coding for communications, transmission media, error
+control, channels, modems, communications system design, terminal
+selection and cost analysis.
+Prereq: Comp 2213 and (Math 2223 or 2233) with C- or better
+</i>"
+<b>ANALYSIS OF ALGORITHMS</b>,"<i>
+Brief review of computer representation and manipulation of mathematical
+structures. Introduction to models of computations, basic programming
+techniques for efficiency (recursion, balancing back-tracking, etc.),
+complexity theory, estimation and measurement of efficiency of
+algorithms, and proving algorithms optimal.
+Prereq: Comp 2113, Math 1023, 1413, (Math 1323 or Math 1333), each with
+C- or better
+</i>"
+<b>AUTOMATA/FORMAL LANG/COMPUT</b>,"<i>
+Automata theory, formal languages, computability and complexity,
+including the Chomsky hierarchy for languages, decision problems for
+languages, theoretical computability, non-computable functions and
+related problems.
+Prereq: Comp 2113, Math 1413, Math 1323 with a minimum grade grade C-.
+</i>"
+<b>DATA ANALYTICS</b>,"<i>
+Methods and technologies surrounding the capture of organizational data;
+the preparation and modelling of that data to identify patterns, make
+predictions, or inform decision making. Topics include: the data
+data analytics process, data warehousing, data engineeing, data
+visualization, data mining and machine learning. Lecture and 1h lab.
+Prereq: Comp 2113, Comp 2103, Math 1223 or 2223 or Math 2233 or Math
+2233, and Math 1413 or Math 1313, each with C- or better
+</i>"
+<b>SYSTEMS ANALYSIS &amp; DESIGN</b>,"<i>
+Introduction to the tools and techniques of information systems analysis
+and design and the project management process. The analysis and
+specification of systems requirements will be covered, as well as the
+design of system data, input, output and processes. A typical business
+case study project will constitute a major portion of the course.
+Prereq: Comp 1113, Comp 1893 or Comp 2863 with C- or better, or
+permission of the school
+</i>"
+<b>COMPUTER GRAPHICS</b>,"<i>
+Selected higher-level concepts in computer graphics, such as display
+devices, display files and data structures for graphics, interactive
+and dynamic display techniques, three-dimensional graphics, shaded
+and colour graphics. Graphics language standardization, and
+device-independent software.
+Prereq: Comp 2113, Math 1013, Math 1413 and Math 1323 each with a
+minimum grade of C-.
+</i>"
+<b>HUMAN COMPUTER INTERACTION</b>,"<i>
+Examines the human factors associated with information technology and
+seeks to provide students with knowledge of the variables likely to
+influence the perceived usability, and hence the acceptability, of any
+information technology. This course introduces a series of techniques
+for developing and evaluating usable software, with a focus on both
+mobile and traditional computing hardware.
+Prereq: Comp 2113
+</i>"
+<b>ARTIFICIAL INTELLIGENCE 1</b>,"<i>
+Topics include an introduction to logic and functional programming, and
+artificial intelligence. Includes first order logic, constraint logic
+programming, lambda calculus, intelligent agents, search, planning, and
+knowledge representation and reasoning. (1h lab)
+Prereq: Comp 2113, Math 1413, Math 1323, Math 2233 or Math 2213/Math
+2233 with a minimum grade of C-.
+</i>"
+<b>SOFTWARE ENGINEERING 2</b>,"<i>
+Topics include software evolution, project management, standards and
+practices of requirements analysis, design, implementation and testing,
+configuration and change management, quality assurance, resource and
+cost estimation, risk management, professional and ethical
+responsibilities, team application of SE methodology to the development
+of a software product.
+Prereq: Comp 2663 with C- or better
+</i>"
+<b>TRANSLATORS</b>,"<i>
+Basic components and techniques of translators for programming
+languages; preprocessors, compilers, interpreters, assemblers.
+Prereq: Comp 2103, Comp 2113, Math 1413, (1323 or 1333) each with C- or
+better
+</i>"
+<b>OPERATING SYSTEMS</b>,"<i>
+Major operating systems principles, and the interrelationships between
+the operating system and the architecture of computer systems. Topics
+from memory and process management, and concurrent computation in
+operating systems.
+Prereq: Comp 2103. 2113, 2213 each with C- or better
+</i>"
+<b>DATA BASE MANAGEMENT SYSTEMS</b>,"<i>
+The analysis, design, operation and maintenance of large information
+systems, especially those using database techniques, on-line
+processing, and networking. The most common models for database
+management systems with commercial examples.
+Prereq: Comp 2113, Math 1413, (1323 or 1333) each with C- or better
+</i>"
+<b>ADV OBJ ORIENTED APP DEV W/C++</b>,"<i>
+Advanced topics in object-oriented programming, analysis, and design
+using C++. Compile and run time binding, reflective and polymorphic
+programming, compile and run time type parametrization.  Standard
+template library. Design patterns and frameworks in C++.
+Prereq: Comp 2103, 2113, 2663 with C- or better
+</i>"
+<b>SPECIAL TOPICS</b>,"<i>
+Prereq: permission of School
+</i>"
+<b>ADV COMPUTER ARCHITECTURE</b>,"<i>
+New generation architectures and technologies, foundations of parallel
+computation, software for advanced architecture, parallel architectures.
+Prereq: Comp 3703, 3713
+</i>"
+<b>COMP NET &amp; DISTRIBUTED SYSTEMS</b>,"<i>
+Design and implementation of computer networks and related systems,
+communications protocols and distributed systems.
+Prereq: Comp 3343, Comp 3713, Math 1413, Math 1323 with a minimum of C-.
+</i>"
+<b>TOPICS: COMP &amp; NETWORK SEC</b>,"<i>
+This course will cover selected topics such as: authentication
+applications, data integrity and privacy, anonymity, security
+infrastructures and intrusion prevention, network attacks, and wireless
+Networks and Security.
+Prereq: Comp 2523 and 4343, each with C- or better
+Coreq or prereq of Math 4333 or permission of the School
+</i>"
+<b>ENVIRONMENTAL INFORMATICS</b>,"<i>
+This course consists of intensive examination of selected specific
+advanced topics in computer science and information technology for
+environmental science.
+Prereq: permission of the school
+</i>"
+<b>GAME DEVELOPMENT</b>,"<i>
+The game development life cycle, game design and programming, graphics
+engines and game engines, game tools.
+Prereq: Comp 3553 and 3773, each with C- or better
+</i>"
+<b>MOBILE/UBIQUITOUS COMPUTING</b>,"<i>
+The skills required to develop applications for mobile and wireless
+devices are increasing in demand. This course provides the skills and
+background needed to understand the technologies used in mobile
+computing and how to apply this knowledge to real-world applications.
+This course will provide specific skills needed for designing,
+developing and deploying mobile applications.
+Prereq: Comp 3343, Comp 2513, Comp 3713
+</i>"
+<b>ARTIFICIAL INTELLIGENCE 2</b>,"<i>
+Special topics in artificial intelligence.
+Prereq: Comp 3613 with a minimum grade of C- or permission of the
+School.
+</i>"
+<b>SPECIAL TOPICS</b>,"<i>
+Prereq: Permission of school
+</i>"
+<b>CAPSTONE PROJECT</b>,"<i>
+Experience in the design, development, implementation and documentation
+of a significant computer software or hardware system; or a thorough
+literature review and analysis of an aspect of computer science. A final
+project report and a presentation to the School are required.
+Prereq: 12h computer science at the 3000 or 4000 level, each with C- or
+better
+Credit cannot be obtained for both Comp 4983 and 4996.
+</i>"
+<b>HONOURS THESIS</b>,"<i>
+Antirequisite: Credit cannot be obtained for both Comp 4983 and 4996.
+</i>"
